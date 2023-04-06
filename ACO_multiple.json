@@ -1,0 +1,1946 @@
+{
+    "155": {
+        "Flight No.": "AA101",
+        "Timestamp": "1530277200",
+        "Altitude": "39000.0",
+        "Latitude": "50.9",
+        "Longitude": "-38.7",
+        "New Cluster": "0",
+        "New Order": "155"
+    },
+    "171": {
+        "Flight No.": "AA109",
+        "Timestamp": "1530277200",
+        "Altitude": "33000.0",
+        "Latitude": "60.3",
+        "Longitude": "-12.2",
+        "New Cluster": "0",
+        "New Order": "171"
+    },
+    "113": {
+        "Flight No.": "AA111",
+        "Timestamp": "1530277200",
+        "Altitude": "39000.0",
+        "Latitude": "52.7",
+        "Longitude": "-18.1",
+        "New Cluster": "0",
+        "New Order": "113"
+    },
+    "182": {
+        "Flight No.": "AA113",
+        "Timestamp": "1530277200",
+        "Altitude": "37000.0",
+        "Latitude": "43.0",
+        "Longitude": "-11.1",
+        "New Cluster": "0",
+        "New Order": "182"
+    },
+    "32": {
+        "Flight No.": "AA151",
+        "Timestamp": "1530277200",
+        "Altitude": "36400.0",
+        "Latitude": "47.0",
+        "Longitude": "-27.7",
+        "New Cluster": "0",
+        "New Order": "32"
+    },
+    "18": {
+        "Flight No.": "AA198",
+        "Timestamp": "1530277200",
+        "Altitude": "0.0",
+        "Latitude": "39.9",
+        "Longitude": "-73.0",
+        "New Cluster": "0",
+        "New Order": "18"
+    },
+    "42": {
+        "Flight No.": "AA199",
+        "Timestamp": "1530277200",
+        "Altitude": "37000.0",
+        "Latitude": "53.1",
+        "Longitude": "-23.8",
+        "New Cluster": "0",
+        "New Order": "42"
+    },
+    "22": {
+        "Flight No.": "AA204",
+        "Timestamp": "1530277200",
+        "Altitude": "0.0",
+        "Latitude": "40.2",
+        "Longitude": "-73.6",
+        "New Cluster": "0",
+        "New Order": "22"
+    },
+    "216": {
+        "Flight No.": "AA209",
+        "Timestamp": "1530277200",
+        "Altitude": "38000.0",
+        "Latitude": "58.2",
+        "Longitude": "-59.0",
+        "New Cluster": "0",
+        "New Order": "216"
+    },
+    "150": {
+        "Flight No.": "AA221",
+        "Timestamp": "1530277200",
+        "Altitude": "34000.0",
+        "Latitude": "59.7",
+        "Longitude": "-51.8",
+        "New Cluster": "0",
+        "New Order": "150"
+    },
+    "165": {
+        "Flight No.": "AA25",
+        "Timestamp": "1530277200",
+        "Altitude": "34000.0",
+        "Latitude": "51.2",
+        "Longitude": "-43.2",
+        "New Cluster": "0",
+        "New Order": "165"
+    },
+    "198": {
+        "Flight No.": "AA258",
+        "Timestamp": "1530277200",
+        "Altitude": "0.0",
+        "Latitude": "39.2",
+        "Longitude": "-8.13",
+        "New Cluster": "0",
+        "New Order": "198"
+    },
+    "29": {
+        "Flight No.": "AA259",
+        "Timestamp": "1530277200",
+        "Altitude": "34000.0",
+        "Latitude": "42.7",
+        "Longitude": "-22.2",
+        "New Cluster": "0",
+        "New Order": "29"
+    },
+    "47": {
+        "Flight No.": "AA291",
+        "Timestamp": "1530277200",
+        "Altitude": "34900.0",
+        "Latitude": "49.9",
+        "Longitude": "-45.6",
+        "New Cluster": "0",
+        "New Order": "47"
+    },
+    "214": {
+        "Flight No.": "AA37",
+        "Timestamp": "1530277200",
+        "Altitude": "36000.0",
+        "Latitude": "44.0",
+        "Longitude": "-40.3",
+        "New Cluster": "0",
+        "New Order": "214"
+    },
+    "211": {
+        "Flight No.": "AA39",
+        "Timestamp": "1530277200",
+        "Altitude": "32000.0",
+        "Latitude": "53.2",
+        "Longitude": "-9.8",
+        "New Cluster": "0",
+        "New Order": "211"
+    },
+    "48": {
+        "Flight No.": "AA45",
+        "Timestamp": "1530277200",
+        "Altitude": "35600.0",
+        "Latitude": "48.9",
+        "Longitude": "-44.8",
+        "New Cluster": "0",
+        "New Order": "48"
+    },
+    "11": {
+        "Flight No.": "AA47",
+        "Timestamp": "1530277200",
+        "Altitude": "40000.0",
+        "Latitude": "54.8",
+        "Longitude": "-67.5",
+        "New Cluster": "0",
+        "New Order": "11"
+    },
+    "52": {
+        "Flight No.": "AA51",
+        "Timestamp": "1530277200",
+        "Altitude": "34000.0",
+        "Latitude": "48.5",
+        "Longitude": "-52.1",
+        "New Cluster": "0",
+        "New Order": "52"
+    },
+    "79": {
+        "Flight No.": "AA53",
+        "Timestamp": "1530277200",
+        "Altitude": "35000.0",
+        "Latitude": "53.2",
+        "Longitude": "-21.8",
+        "New Cluster": "0",
+        "New Order": "79"
+    },
+    "204": {
+        "Flight No.": "AA57",
+        "Timestamp": "1530277200",
+        "Altitude": "33000.0",
+        "Latitude": "49.4",
+        "Longitude": "-49.0",
+        "New Cluster": "0",
+        "New Order": "204"
+    },
+    "157": {
+        "Flight No.": "AA67",
+        "Timestamp": "1530277200",
+        "Altitude": "38000.0",
+        "Latitude": "43.5",
+        "Longitude": "-46.0",
+        "New Cluster": "0",
+        "New Order": "157"
+    },
+    "53": {
+        "Flight No.": "AA705",
+        "Timestamp": "1530277200",
+        "Altitude": "39000.0",
+        "Latitude": "48.4",
+        "Longitude": "-52.7",
+        "New Cluster": "0",
+        "New Order": "53"
+    },
+    "85": {
+        "Flight No.": "AA71",
+        "Timestamp": "1530277200",
+        "Altitude": "30000.0",
+        "Latitude": "61.0",
+        "Longitude": "-35.1",
+        "New Cluster": "0",
+        "New Order": "85"
+    },
+    "126": {
+        "Flight No.": "AA715",
+        "Timestamp": "1530277200",
+        "Altitude": "37000.0",
+        "Latitude": "50.0",
+        "Longitude": "-12.6",
+        "New Cluster": "0",
+        "New Order": "126"
+    },
+    "161": {
+        "Flight No.": "AA717",
+        "Timestamp": "1530277200",
+        "Altitude": "38000.0",
+        "Latitude": "51.4",
+        "Longitude": "-41.4",
+        "New Cluster": "0",
+        "New Order": "161"
+    },
+    "197": {
+        "Flight No.": "AA719",
+        "Timestamp": "1530277200",
+        "Altitude": "34000.0",
+        "Latitude": "46.5",
+        "Longitude": "-16.1",
+        "New Cluster": "0",
+        "New Order": "197"
+    },
+    "109": {
+        "Flight No.": "AA721",
+        "Timestamp": "1530277200",
+        "Altitude": "34800.0",
+        "Latitude": "45.4",
+        "Longitude": "-22.4",
+        "New Cluster": "0",
+        "New Order": "109"
+    },
+    "80": {
+        "Flight No.": "AA723",
+        "Timestamp": "1530277200",
+        "Altitude": "31000.0",
+        "Latitude": "52.7",
+        "Longitude": "-31.6",
+        "New Cluster": "0",
+        "New Order": "80"
+    },
+    "54": {
+        "Flight No.": "AA725",
+        "Timestamp": "1530277200",
+        "Altitude": "38000.0",
+        "Latitude": "49.4",
+        "Longitude": "-52.6",
+        "New Cluster": "0",
+        "New Order": "54"
+    },
+    "77": {
+        "Flight No.": "AA731",
+        "Timestamp": "1530277200",
+        "Altitude": "33000.0",
+        "Latitude": "53.4",
+        "Longitude": "-21.1",
+        "New Cluster": "0",
+        "New Order": "77"
+    },
+    "41": {
+        "Flight No.": "AA735",
+        "Timestamp": "1530277200",
+        "Altitude": "34000.0",
+        "Latitude": "53.0",
+        "Longitude": "-24.1",
+        "New Cluster": "0",
+        "New Order": "41"
+    },
+    "196": {
+        "Flight No.": "AA741",
+        "Timestamp": "1530277200",
+        "Altitude": "37700.0",
+        "Latitude": "42.9",
+        "Longitude": "-18.7",
+        "New Cluster": "0",
+        "New Order": "196"
+    },
+    "181": {
+        "Flight No.": "AA743",
+        "Timestamp": "1530277200",
+        "Altitude": "37000.0",
+        "Latitude": "44.0",
+        "Longitude": "-11.9",
+        "New Cluster": "0",
+        "New Order": "181"
+    },
+    "133": {
+        "Flight No.": "AA745",
+        "Timestamp": "1530277200",
+        "Altitude": "33000.0",
+        "Latitude": "43.3",
+        "Longitude": "-3.04",
+        "New Cluster": "0",
+        "New Order": "133"
+    },
+    "28": {
+        "Flight No.": "AA749",
+        "Timestamp": "1530277200",
+        "Altitude": "38700.0",
+        "Latitude": "42.9",
+        "Longitude": "-23.4",
+        "New Cluster": "0",
+        "New Order": "28"
+    },
+    "192": {
+        "Flight No.": "AA751",
+        "Timestamp": "1530277200",
+        "Altitude": "38000.0",
+        "Latitude": "53.0",
+        "Longitude": "-30.5",
+        "New Cluster": "0",
+        "New Order": "192"
+    },
+    "167": {
+        "Flight No.": "AA755",
+        "Timestamp": "1530277200",
+        "Altitude": "38000.0",
+        "Latitude": "48.7",
+        "Longitude": "-46.5",
+        "New Cluster": "0",
+        "New Order": "167"
+    },
+    "95": {
+        "Flight No.": "AA759",
+        "Timestamp": "1530277200",
+        "Altitude": "37000.0",
+        "Latitude": "53.0",
+        "Longitude": "-16.8",
+        "New Cluster": "0",
+        "New Order": "95"
+    },
+    "36": {
+        "Flight No.": "AA87",
+        "Timestamp": "1530277200",
+        "Altitude": "30000.0",
+        "Latitude": "57.6",
+        "Longitude": "-19.2",
+        "New Cluster": "0",
+        "New Order": "36"
+    },
+    "110": {
+        "Flight No.": "AA93",
+        "Timestamp": "1530277200",
+        "Altitude": "35900.0",
+        "Latitude": "48.7",
+        "Longitude": "-21.2",
+        "New Cluster": "0",
+        "New Order": "110"
+    },
+    "115": {
+        "Flight No.": "AA97",
+        "Timestamp": "1530277200",
+        "Altitude": "34000.0",
+        "Latitude": "54.9",
+        "Longitude": "-16.5",
+        "New Cluster": "0",
+        "New Order": "115"
+    },
+    "59": {
+        "Flight No.": "BA117",
+        "Timestamp": "1530277200",
+        "Altitude": "38000.0",
+        "Latitude": "46.6",
+        "Longitude": "-60.3",
+        "New Cluster": "0",
+        "New Order": "59"
+    },
+    "70": {
+        "Flight No.": "BA173",
+        "Timestamp": "1530277200",
+        "Altitude": "37000.0",
+        "Latitude": "53.3",
+        "Longitude": "-28.2",
+        "New Cluster": "0",
+        "New Order": "70"
+    },
+    "21": {
+        "Flight No.": "BA174",
+        "Timestamp": "1530277200",
+        "Altitude": "0.0",
+        "Latitude": "40.5",
+        "Longitude": "-73.5",
+        "New Cluster": "0",
+        "New Order": "21"
+    },
+    "46": {
+        "Flight No.": "BA175",
+        "Timestamp": "1530277200",
+        "Altitude": "36100.0",
+        "Latitude": "50.0",
+        "Longitude": "-45.1",
+        "New Cluster": "0",
+        "New Order": "46"
+    },
+    "12": {
+        "Flight No.": "BA178",
+        "Timestamp": "1530277200",
+        "Altitude": "37000.0",
+        "Latitude": "44.3",
+        "Longitude": "-68.7",
+        "New Cluster": "0",
+        "New Order": "12"
+    },
+    "136": {
+        "Flight No.": "BA179",
+        "Timestamp": "1530277200",
+        "Altitude": "0.0",
+        "Latitude": "51.5",
+        "Longitude": "-0.744",
+        "New Cluster": "0",
+        "New Order": "136"
+    },
+    "186": {
+        "Flight No.": "BA185",
+        "Timestamp": "1530277200",
+        "Altitude": "39000.0",
+        "Latitude": "52.4",
+        "Longitude": "-34.3",
+        "New Cluster": "0",
+        "New Order": "186"
+    },
+    "72": {
+        "Flight No.": "BA191",
+        "Timestamp": "1530277200",
+        "Altitude": "32000.0",
+        "Latitude": "57.7",
+        "Longitude": "-18.9",
+        "New Cluster": "0",
+        "New Order": "72"
+    },
+    "35": {
+        "Flight No.": "BA193",
+        "Timestamp": "1530277200",
+        "Altitude": "31000.0",
+        "Latitude": "58.0",
+        "Longitude": "-20.1",
+        "New Cluster": "0",
+        "New Order": "35"
+    },
+    "107": {
+        "Flight No.": "BA2037",
+        "Timestamp": "1530277200",
+        "Altitude": "36000.0",
+        "Latitude": "46.8",
+        "Longitude": "-24.1",
+        "New Cluster": "0",
+        "New Order": "107"
+    },
+    "1": {
+        "Flight No.": "BA207",
+        "Timestamp": "1530277200",
+        "Altitude": "33000.0",
+        "Latitude": "50.4",
+        "Longitude": "-34.4",
+        "New Cluster": "0",
+        "New Order": "1"
+    },
+    "13": {
+        "Flight No.": "BA212",
+        "Timestamp": "1530277200",
+        "Altitude": "0.0",
+        "Latitude": "44.9",
+        "Longitude": "-69.8",
+        "New Cluster": "0",
+        "New Order": "13"
+    },
+    "146": {
+        "Flight No.": "BA213",
+        "Timestamp": "1530277200",
+        "Altitude": "38000.0",
+        "Latitude": "52.8",
+        "Longitude": "-7.9",
+        "New Cluster": "0",
+        "New Order": "146"
+    },
+    "31": {
+        "Flight No.": "BA2155",
+        "Timestamp": "1530277200",
+        "Altitude": "38000.0",
+        "Latitude": "44.7",
+        "Longitude": "-22.1",
+        "New Cluster": "0",
+        "New Order": "31"
+    },
+    "49": {
+        "Flight No.": "BA2167",
+        "Timestamp": "1530277200",
+        "Altitude": "38000.0",
+        "Latitude": "48.0",
+        "Longitude": "-44.6",
+        "New Cluster": "0",
+        "New Order": "49"
+    },
+    "82": {
+        "Flight No.": "BA217",
+        "Timestamp": "1530277200",
+        "Altitude": "36900.0",
+        "Latitude": "52.8",
+        "Longitude": "-31.3",
+        "New Cluster": "0",
+        "New Order": "82"
+    },
+    "127": {
+        "Flight No.": "BA2239",
+        "Timestamp": "1530277200",
+        "Altitude": "30900.0",
+        "Latitude": "48.2",
+        "Longitude": "-13.7",
+        "New Cluster": "0",
+        "New Order": "127"
+    },
+    "206": {
+        "Flight No.": "BA225",
+        "Timestamp": "1530277200",
+        "Altitude": "0.0",
+        "Latitude": "51.5",
+        "Longitude": "-0.454",
+        "New Cluster": "0",
+        "New Order": "206"
+    },
+    "210": {
+        "Flight No.": "BA2271",
+        "Timestamp": "1530277200",
+        "Altitude": "36000.0",
+        "Latitude": "54.0",
+        "Longitude": "-9.61",
+        "New Cluster": "0",
+        "New Order": "210"
+    },
+    "98": {
+        "Flight No.": "BA2277",
+        "Timestamp": "1530277200",
+        "Altitude": "34000.0",
+        "Latitude": "56.7",
+        "Longitude": "-12.6",
+        "New Cluster": "0",
+        "New Order": "98"
+    },
+    "58": {
+        "Flight No.": "BA238",
+        "Timestamp": "1530277200",
+        "Altitude": "37100.0",
+        "Latitude": "45.2",
+        "Longitude": "-62.6",
+        "New Cluster": "0",
+        "New Order": "58"
+    },
+    "205": {
+        "Flight No.": "BA239",
+        "Timestamp": "1530277200",
+        "Altitude": "0.0",
+        "Latitude": "51.5",
+        "Longitude": "-0.485",
+        "New Cluster": "0",
+        "New Order": "205"
+    },
+    "65": {
+        "Flight No.": "BA244",
+        "Timestamp": "1530277200",
+        "Altitude": "0.0",
+        "Latitude": "-34.7",
+        "Longitude": "-59.3",
+        "New Cluster": "0",
+        "New Order": "65"
+    },
+    "130": {
+        "Flight No.": "BA249",
+        "Timestamp": "1530277200",
+        "Altitude": "38000.0",
+        "Latitude": "45.2",
+        "Longitude": "-12.2",
+        "New Cluster": "0",
+        "New Order": "130"
+    },
+    "66": {
+        "Flight No.": "BA250",
+        "Timestamp": "1530277200",
+        "Altitude": "0.0",
+        "Latitude": "-33.6",
+        "Longitude": "-70.8",
+        "New Cluster": "0",
+        "New Order": "66"
+    },
+    "4": {
+        "Flight No.": "BA283",
+        "Timestamp": "1530277200",
+        "Altitude": "38000.0",
+        "Latitude": "69.1",
+        "Longitude": "-53.3",
+        "New Cluster": "0",
+        "New Order": "4"
+    },
+    "122": {
+        "Flight No.": "BA285",
+        "Timestamp": "1530277200",
+        "Altitude": "34000.0",
+        "Latitude": "62.0",
+        "Longitude": "-29.9",
+        "New Cluster": "0",
+        "New Order": "122"
+    },
+    "137": {
+        "Flight No.": "BA287",
+        "Timestamp": "1530277200",
+        "Altitude": "0.0",
+        "Latitude": "51.5",
+        "Longitude": "-0.488",
+        "New Cluster": "0",
+        "New Order": "137"
+    },
+    "187": {
+        "Flight No.": "BA295",
+        "Timestamp": "1530277200",
+        "Altitude": "35000.0",
+        "Latitude": "52.1",
+        "Longitude": "-36.7",
+        "New Cluster": "0",
+        "New Order": "187"
+    },
+    "135": {
+        "Flight No.": "BA49",
+        "Timestamp": "1530277200",
+        "Altitude": "0.0",
+        "Latitude": "51.5",
+        "Longitude": "-0.793",
+        "New Cluster": "0",
+        "New Order": "135"
+    },
+    "7": {
+        "Flight No.": "BA53",
+        "Timestamp": "1530277200",
+        "Altitude": "34000.0",
+        "Latitude": "70.0",
+        "Longitude": "-61.4",
+        "New Cluster": "0",
+        "New Order": "7"
+    },
+    "118": {
+        "Flight No.": "BA67",
+        "Timestamp": "1530277200",
+        "Altitude": "34000.0",
+        "Latitude": "52.8",
+        "Longitude": "-11.1",
+        "New Cluster": "0",
+        "New Order": "118"
+    },
+    "172": {
+        "Flight No.": "BA801",
+        "Timestamp": "1530277200",
+        "Altitude": "35000.0",
+        "Latitude": "57.7",
+        "Longitude": "-6.2",
+        "New Cluster": "0",
+        "New Order": "172"
+    },
+    "142": {
+        "Flight No.": "BA93",
+        "Timestamp": "1530277200",
+        "Altitude": "24700.0",
+        "Latitude": "51.8",
+        "Longitude": "-2.68",
+        "New Cluster": "0",
+        "New Order": "142"
+    },
+    "151": {
+        "Flight No.": "DL107",
+        "Timestamp": "1530277200",
+        "Altitude": "34000.0",
+        "Latitude": "66.9",
+        "Longitude": "-47.9",
+        "New Cluster": "0",
+        "New Order": "151"
+    },
+    "103": {
+        "Flight No.": "DL109",
+        "Timestamp": "1530277200",
+        "Altitude": "31000.0",
+        "Latitude": "43.8",
+        "Longitude": "-37.9",
+        "New Cluster": "0",
+        "New Order": "103"
+    },
+    "148": {
+        "Flight No.": "DL11",
+        "Timestamp": "1530277200",
+        "Altitude": "32000.0",
+        "Latitude": "53.7",
+        "Longitude": "-8.03",
+        "New Cluster": "0",
+        "New Order": "148"
+    },
+    "89": {
+        "Flight No.": "DL117",
+        "Timestamp": "1530277200",
+        "Altitude": "33000.0",
+        "Latitude": "46.9",
+        "Longitude": "-36.0",
+        "New Cluster": "0",
+        "New Order": "89"
+    },
+    "15": {
+        "Flight No.": "DL118",
+        "Timestamp": "1530277200",
+        "Altitude": "0.0",
+        "Latitude": "42.3",
+        "Longitude": "-71.0",
+        "New Cluster": "0",
+        "New Order": "15"
+    },
+    "160": {
+        "Flight No.": "DL131",
+        "Timestamp": "1530277200",
+        "Altitude": "34000.0",
+        "Latitude": "49.8",
+        "Longitude": "-38.8",
+        "New Cluster": "0",
+        "New Order": "160"
+    },
+    "10": {
+        "Flight No.": "DL133",
+        "Timestamp": "1530277200",
+        "Altitude": "38000.0",
+        "Latitude": "57.8",
+        "Longitude": "-63.8",
+        "New Cluster": "0",
+        "New Order": "10"
+    },
+    "94": {
+        "Flight No.": "DL136",
+        "Timestamp": "1530277200",
+        "Altitude": "0.0",
+        "Latitude": "63.4",
+        "Longitude": "-50.5",
+        "New Cluster": "0",
+        "New Order": "94"
+    },
+    "99": {
+        "Flight No.": "DL137",
+        "Timestamp": "1530277200",
+        "Altitude": "34000.0",
+        "Latitude": "56.0",
+        "Longitude": "-12.0",
+        "New Cluster": "0",
+        "New Order": "99"
+    },
+    "208": {
+        "Flight No.": "DL141",
+        "Timestamp": "1530277200",
+        "Altitude": "35000.0",
+        "Latitude": "46.0",
+        "Longitude": "-42.5",
+        "New Cluster": "0",
+        "New Order": "208"
+    },
+    "6": {
+        "Flight No.": "DL143",
+        "Timestamp": "1530277200",
+        "Altitude": "36000.0",
+        "Latitude": "68.9",
+        "Longitude": "-58.2",
+        "New Cluster": "0",
+        "New Order": "6"
+    },
+    "78": {
+        "Flight No.": "DL15",
+        "Timestamp": "1530277200",
+        "Altitude": "34000.0",
+        "Latitude": "53.3",
+        "Longitude": "-21.7",
+        "New Cluster": "0",
+        "New Order": "78"
+    },
+    "16": {
+        "Flight No.": "DL154",
+        "Timestamp": "1530277200",
+        "Altitude": "0.0",
+        "Latitude": "40.3",
+        "Longitude": "-72.0",
+        "New Cluster": "0",
+        "New Order": "16"
+    },
+    "102": {
+        "Flight No.": "DL155",
+        "Timestamp": "1530277200",
+        "Altitude": "31000.0",
+        "Latitude": "54.8",
+        "Longitude": "-13.8",
+        "New Cluster": "0",
+        "New Order": "102"
+    },
+    "149": {
+        "Flight No.": "DL161",
+        "Timestamp": "1530277200",
+        "Altitude": "36000.0",
+        "Latitude": "61.9",
+        "Longitude": "-51.0",
+        "New Cluster": "0",
+        "New Order": "149"
+    },
+    "97": {
+        "Flight No.": "DL163",
+        "Timestamp": "1530277200",
+        "Altitude": "33000.0",
+        "Latitude": "57.0",
+        "Longitude": "-14.0",
+        "New Cluster": "0",
+        "New Order": "97"
+    },
+    "185": {
+        "Flight No.": "DL17",
+        "Timestamp": "1530277200",
+        "Altitude": "38000.0",
+        "Latitude": "52.3",
+        "Longitude": "-35.1",
+        "New Cluster": "0",
+        "New Order": "185"
+    },
+    "184": {
+        "Flight No.": "DL177",
+        "Timestamp": "1530277200",
+        "Altitude": "32600.0",
+        "Latitude": "52.3",
+        "Longitude": "-34.9",
+        "New Cluster": "0",
+        "New Order": "184"
+    },
+    "8": {
+        "Flight No.": "DL179",
+        "Timestamp": "1530277200",
+        "Altitude": "36000.0",
+        "Latitude": "68.8",
+        "Longitude": "-63.9",
+        "New Cluster": "0",
+        "New Order": "8"
+    },
+    "177": {
+        "Flight No.": "DL195",
+        "Timestamp": "1530277200",
+        "Altitude": "33800.0",
+        "Latitude": "44.0",
+        "Longitude": "-34.7",
+        "New Cluster": "0",
+        "New Order": "177"
+    },
+    "134": {
+        "Flight No.": "DL209",
+        "Timestamp": "1530277200",
+        "Altitude": "0.0",
+        "Latitude": "55.9",
+        "Longitude": "-3.41",
+        "New Cluster": "0",
+        "New Order": "134"
+    },
+    "139": {
+        "Flight No.": "DL21",
+        "Timestamp": "1530277200",
+        "Altitude": "34000.0",
+        "Latitude": "49.2",
+        "Longitude": "-1.62",
+        "New Cluster": "0",
+        "New Order": "139"
+    },
+    "203": {
+        "Flight No.": "DL210",
+        "Timestamp": "1530277200",
+        "Altitude": "33000.0",
+        "Latitude": "43.2",
+        "Longitude": "-48.7",
+        "New Cluster": "0",
+        "New Order": "203"
+    },
+    "179": {
+        "Flight No.": "DL212",
+        "Timestamp": "1530277200",
+        "Altitude": "30000.0",
+        "Latitude": "46.0",
+        "Longitude": "-9.09",
+        "New Cluster": "0",
+        "New Order": "179"
+    },
+    "129": {
+        "Flight No.": "DL213",
+        "Timestamp": "1530277200",
+        "Altitude": "34300.0",
+        "Latitude": "46.8",
+        "Longitude": "-13.2",
+        "New Cluster": "0",
+        "New Order": "129"
+    },
+    "213": {
+        "Flight No.": "DL222",
+        "Timestamp": "1530277200",
+        "Altitude": "30000.0",
+        "Latitude": "53.6",
+        "Longitude": "-4.32",
+        "New Cluster": "0",
+        "New Order": "213"
+    },
+    "50": {
+        "Flight No.": "DL229",
+        "Timestamp": "1530277200",
+        "Altitude": "33800.0",
+        "Latitude": "45.9",
+        "Longitude": "-43.4",
+        "New Cluster": "0",
+        "New Order": "50"
+    },
+    "27": {
+        "Flight No.": "DL23",
+        "Timestamp": "1530277200",
+        "Altitude": "34000.0",
+        "Latitude": "50.7",
+        "Longitude": "-46.2",
+        "New Cluster": "0",
+        "New Order": "27"
+    },
+    "33": {
+        "Flight No.": "DL231",
+        "Timestamp": "1530277200",
+        "Altitude": "35000.0",
+        "Latitude": "47.1",
+        "Longitude": "-28.1",
+        "New Cluster": "0",
+        "New Order": "33"
+    },
+    "111": {
+        "Flight No.": "DL237",
+        "Timestamp": "1530277200",
+        "Altitude": "36000.0",
+        "Latitude": "49.5",
+        "Longitude": "-19.2",
+        "New Cluster": "0",
+        "New Order": "111"
+    },
+    "92": {
+        "Flight No.": "DL246",
+        "Timestamp": "1530277200",
+        "Altitude": "36000.0",
+        "Latitude": "57.3",
+        "Longitude": "-46.2",
+        "New Cluster": "0",
+        "New Order": "92"
+    },
+    "193": {
+        "Flight No.": "DL259",
+        "Timestamp": "1530277200",
+        "Altitude": "37000.0",
+        "Latitude": "51.0",
+        "Longitude": "-30.9",
+        "New Cluster": "0",
+        "New Order": "193"
+    },
+    "56": {
+        "Flight No.": "DL270",
+        "Timestamp": "1530277200",
+        "Altitude": "40000.0",
+        "Latitude": "42.5",
+        "Longitude": "-65.1",
+        "New Cluster": "0",
+        "New Order": "56"
+    },
+    "117": {
+        "Flight No.": "DL31",
+        "Timestamp": "1530277200",
+        "Altitude": "35000.0",
+        "Latitude": "53.7",
+        "Longitude": "-13.2",
+        "New Cluster": "0",
+        "New Order": "117"
+    },
+    "5": {
+        "Flight No.": "DL35",
+        "Timestamp": "1530277200",
+        "Altitude": "36000.0",
+        "Latitude": "67.4",
+        "Longitude": "-56.3",
+        "New Cluster": "0",
+        "New Order": "5"
+    },
+    "67": {
+        "Flight No.": "DL4",
+        "Timestamp": "1530277200",
+        "Altitude": "0.0",
+        "Latitude": "42.0",
+        "Longitude": "-73.4",
+        "New Cluster": "0",
+        "New Order": "67"
+    },
+    "88": {
+        "Flight No.": "DL400",
+        "Timestamp": "1530277200",
+        "Altitude": "35000.0",
+        "Latitude": "47.3",
+        "Longitude": "-33.2",
+        "New Cluster": "0",
+        "New Order": "88"
+    },
+    "19": {
+        "Flight No.": "DL404",
+        "Timestamp": "1530277200",
+        "Altitude": "0.0",
+        "Latitude": "40.7",
+        "Longitude": "-73.4",
+        "New Cluster": "0",
+        "New Order": "19"
+    },
+    "158": {
+        "Flight No.": "DL405",
+        "Timestamp": "1530277200",
+        "Altitude": "36000.0",
+        "Latitude": "44.7",
+        "Longitude": "-45.0",
+        "New Cluster": "0",
+        "New Order": "158"
+    },
+    "23": {
+        "Flight No.": "DL407",
+        "Timestamp": "1530277200",
+        "Altitude": "0.0",
+        "Latitude": "40.7",
+        "Longitude": "-73.7",
+        "New Cluster": "0",
+        "New Order": "23"
+    },
+    "68": {
+        "Flight No.": "DL418",
+        "Timestamp": "1530277200",
+        "Altitude": "0.0",
+        "Latitude": "41.5",
+        "Longitude": "-73.4",
+        "New Cluster": "0",
+        "New Order": "68"
+    },
+    "51": {
+        "Flight No.": "DL419",
+        "Timestamp": "1530277200",
+        "Altitude": "36500.0",
+        "Latitude": "46.0",
+        "Longitude": "-42.8",
+        "New Cluster": "0",
+        "New Order": "51"
+    },
+    "20": {
+        "Flight No.": "DL422",
+        "Timestamp": "1530277200",
+        "Altitude": "0.0",
+        "Latitude": "40.6",
+        "Longitude": "-73.5",
+        "New Cluster": "0",
+        "New Order": "20"
+    },
+    "164": {
+        "Flight No.": "DL43",
+        "Timestamp": "1530277200",
+        "Altitude": "30900.0",
+        "Latitude": "51.1",
+        "Longitude": "-43.0",
+        "New Cluster": "0",
+        "New Order": "164"
+    },
+    "75": {
+        "Flight No.": "DL45",
+        "Timestamp": "1530277200",
+        "Altitude": "32000.0",
+        "Latitude": "54.4",
+        "Longitude": "-19.6",
+        "New Cluster": "0",
+        "New Order": "75"
+    },
+    "24": {
+        "Flight No.": "DL47",
+        "Timestamp": "1530277200",
+        "Altitude": "36000.0",
+        "Latitude": "50.6",
+        "Longitude": "-47.6",
+        "New Cluster": "0",
+        "New Order": "24"
+    },
+    "180": {
+        "Flight No.": "DL477",
+        "Timestamp": "1530277200",
+        "Altitude": "37000.0",
+        "Latitude": "45.3",
+        "Longitude": "-10.9",
+        "New Cluster": "0",
+        "New Order": "180"
+    },
+    "200": {
+        "Flight No.": "DL478",
+        "Timestamp": "1530277200",
+        "Altitude": "36000.0",
+        "Latitude": "15.1",
+        "Longitude": "-18.5",
+        "New Cluster": "0",
+        "New Order": "200"
+    },
+    "163": {
+        "Flight No.": "DL49",
+        "Timestamp": "1530277200",
+        "Altitude": "35000.0",
+        "Latitude": "51.2",
+        "Longitude": "-42.3",
+        "New Cluster": "0",
+        "New Order": "163"
+    },
+    "125": {
+        "Flight No.": "DL501",
+        "Timestamp": "1530277200",
+        "Altitude": "35000.0",
+        "Latitude": "49.6",
+        "Longitude": "-10.6",
+        "New Cluster": "0",
+        "New Order": "125"
+    },
+    "120": {
+        "Flight No.": "DL51",
+        "Timestamp": "1530277200",
+        "Altitude": "34000.0",
+        "Latitude": "62.6",
+        "Longitude": "-32.5",
+        "New Cluster": "0",
+        "New Order": "120"
+    },
+    "199": {
+        "Flight No.": "DL54",
+        "Timestamp": "1530277200",
+        "Altitude": "39000.0",
+        "Latitude": "13.8",
+        "Longitude": "-9.76",
+        "New Cluster": "0",
+        "New Order": "199"
+    },
+    "25": {
+        "Flight No.": "DL59",
+        "Timestamp": "1530277200",
+        "Altitude": "35000.0",
+        "Latitude": "50.6",
+        "Longitude": "-47.2",
+        "New Cluster": "0",
+        "New Order": "25"
+    },
+    "105": {
+        "Flight No.": "DL63",
+        "Timestamp": "1530277200",
+        "Altitude": "32900.0",
+        "Latitude": "44.4",
+        "Longitude": "-36.5",
+        "New Cluster": "0",
+        "New Order": "105"
+    },
+    "57": {
+        "Flight No.": "DL71",
+        "Timestamp": "1530277200",
+        "Altitude": "38000.0",
+        "Latitude": "46.3",
+        "Longitude": "-63.6",
+        "New Cluster": "0",
+        "New Order": "57"
+    },
+    "2": {
+        "Flight No.": "DL73",
+        "Timestamp": "1530277200",
+        "Altitude": "34000.0",
+        "Latitude": "50.2",
+        "Longitude": "-35.6",
+        "New Cluster": "0",
+        "New Order": "2"
+    },
+    "212": {
+        "Flight No.": "DL75",
+        "Timestamp": "1530277200",
+        "Altitude": "35000.0",
+        "Latitude": "52.8",
+        "Longitude": "-10.9",
+        "New Cluster": "0",
+        "New Order": "212"
+    },
+    "81": {
+        "Flight No.": "DL81",
+        "Timestamp": "1530277200",
+        "Altitude": "32000.0",
+        "Latitude": "52.7",
+        "Longitude": "-31.4",
+        "New Cluster": "0",
+        "New Order": "81"
+    },
+    "60": {
+        "Flight No.": "DL83",
+        "Timestamp": "1530277200",
+        "Altitude": "38000.0",
+        "Latitude": "43.9",
+        "Longitude": "-59.7",
+        "New Cluster": "0",
+        "New Order": "60"
+    },
+    "191": {
+        "Flight No.": "DL87",
+        "Timestamp": "1530277200",
+        "Altitude": "32000.0",
+        "Latitude": "52.2",
+        "Longitude": "-29.1",
+        "New Cluster": "0",
+        "New Order": "191"
+    },
+    "153": {
+        "Flight No.": "DL91",
+        "Timestamp": "1530277200",
+        "Altitude": "33000.0",
+        "Latitude": "51.7",
+        "Longitude": "-39.3",
+        "New Cluster": "0",
+        "New Order": "153"
+    },
+    "159": {
+        "Flight No.": "DL97",
+        "Timestamp": "1530277200",
+        "Altitude": "38700.0",
+        "Latitude": "44.9",
+        "Longitude": "-43.4",
+        "New Cluster": "0",
+        "New Order": "159"
+    },
+    "188": {
+        "Flight No.": "LH400",
+        "Timestamp": "1530277200",
+        "Altitude": "38000.0",
+        "Latitude": "52.1",
+        "Longitude": "-30.3",
+        "New Cluster": "0",
+        "New Order": "188"
+    },
+    "144": {
+        "Flight No.": "LH402",
+        "Timestamp": "1530277200",
+        "Altitude": "34000.0",
+        "Latitude": "52.3",
+        "Longitude": "-4.21",
+        "New Cluster": "0",
+        "New Order": "144"
+    },
+    "116": {
+        "Flight No.": "LH410",
+        "Timestamp": "1530277200",
+        "Altitude": "37000.0",
+        "Latitude": "55.0",
+        "Longitude": "-16.1",
+        "New Cluster": "0",
+        "New Order": "116"
+    },
+    "162": {
+        "Flight No.": "LH416",
+        "Timestamp": "1530277200",
+        "Altitude": "38000.0",
+        "Latitude": "50.5",
+        "Longitude": "-41.8",
+        "New Cluster": "0",
+        "New Order": "162"
+    },
+    "86": {
+        "Flight No.": "LH418",
+        "Timestamp": "1530277200",
+        "Altitude": "34000.0",
+        "Latitude": "52.4",
+        "Longitude": "-7.39",
+        "New Cluster": "0",
+        "New Order": "86"
+    },
+    "17": {
+        "Flight No.": "LH421",
+        "Timestamp": "1530277200",
+        "Altitude": "0.0",
+        "Latitude": "39.9",
+        "Longitude": "-72.7",
+        "New Cluster": "0",
+        "New Order": "17"
+    },
+    "147": {
+        "Flight No.": "LH422",
+        "Timestamp": "1530277200",
+        "Altitude": "36000.0",
+        "Latitude": "52.7",
+        "Longitude": "-7.98",
+        "New Cluster": "0",
+        "New Order": "147"
+    },
+    "14": {
+        "Flight No.": "LH423",
+        "Timestamp": "1530277200",
+        "Altitude": "0.0",
+        "Latitude": "42.2",
+        "Longitude": "-70.8",
+        "New Cluster": "0",
+        "New Order": "14"
+    },
+    "145": {
+        "Flight No.": "LH426",
+        "Timestamp": "1530277200",
+        "Altitude": "36000.0",
+        "Latitude": "52.9",
+        "Longitude": "-7.59",
+        "New Cluster": "0",
+        "New Order": "145"
+    },
+    "114": {
+        "Flight No.": "LH428",
+        "Timestamp": "1530277200",
+        "Altitude": "37000.0",
+        "Latitude": "54.0",
+        "Longitude": "-17.1",
+        "New Cluster": "0",
+        "New Order": "114"
+    },
+    "84": {
+        "Flight No.": "LH438",
+        "Timestamp": "1530277200",
+        "Altitude": "32000.0",
+        "Latitude": "61.9",
+        "Longitude": "-37.9",
+        "New Cluster": "0",
+        "New Order": "84"
+    },
+    "90": {
+        "Flight No.": "LH440",
+        "Timestamp": "1530277200",
+        "Altitude": "36000.0",
+        "Latitude": "62.9",
+        "Longitude": "-41.5",
+        "New Cluster": "0",
+        "New Order": "90"
+    },
+    "93": {
+        "Flight No.": "LH442",
+        "Timestamp": "1530277200",
+        "Altitude": "36000.0",
+        "Latitude": "60.3",
+        "Longitude": "-47.5",
+        "New Cluster": "0",
+        "New Order": "93"
+    },
+    "189": {
+        "Flight No.": "LH444",
+        "Timestamp": "1530277200",
+        "Altitude": "36000.0",
+        "Latitude": "51.6",
+        "Longitude": "-26.4",
+        "New Cluster": "0",
+        "New Order": "189"
+    },
+    "169": {
+        "Flight No.": "LH452",
+        "Timestamp": "1530277200",
+        "Altitude": "36000.0",
+        "Latitude": "60.0",
+        "Longitude": "-14.4",
+        "New Cluster": "0",
+        "New Order": "169"
+    },
+    "37": {
+        "Flight No.": "LH454",
+        "Timestamp": "1530277200",
+        "Altitude": "37000.0",
+        "Latitude": "68.3",
+        "Longitude": "-42.8",
+        "New Cluster": "0",
+        "New Order": "37"
+    },
+    "39": {
+        "Flight No.": "LH456",
+        "Timestamp": "1530277200",
+        "Altitude": "34000.0",
+        "Latitude": "68.3",
+        "Longitude": "-42.2",
+        "New Cluster": "0",
+        "New Order": "39"
+    },
+    "194": {
+        "Flight No.": "LH462",
+        "Timestamp": "1530277200",
+        "Altitude": "38000.0",
+        "Latitude": "51.0",
+        "Longitude": "-31.1",
+        "New Cluster": "0",
+        "New Order": "194"
+    },
+    "132": {
+        "Flight No.": "LH475",
+        "Timestamp": "1530277200",
+        "Altitude": "0.0",
+        "Latitude": "45.3",
+        "Longitude": "-73.5",
+        "New Cluster": "0",
+        "New Order": "132"
+    },
+    "96": {
+        "Flight No.": "LH480",
+        "Timestamp": "1530277200",
+        "Altitude": "37500.0",
+        "Latitude": "57.2",
+        "Longitude": "-13.8",
+        "New Cluster": "0",
+        "New Order": "96"
+    },
+    "128": {
+        "Flight No.": "LH484",
+        "Timestamp": "1530277200",
+        "Altitude": "32300.0",
+        "Latitude": "48.2",
+        "Longitude": "-14.3",
+        "New Cluster": "0",
+        "New Order": "128"
+    },
+    "209": {
+        "Flight No.": "LH488",
+        "Timestamp": "1530277200",
+        "Altitude": "34000.0",
+        "Latitude": "63.8",
+        "Longitude": "-23.9",
+        "New Cluster": "0",
+        "New Order": "209"
+    },
+    "38": {
+        "Flight No.": "LH490",
+        "Timestamp": "1530277200",
+        "Altitude": "33000.0",
+        "Latitude": "68.3",
+        "Longitude": "-42.6",
+        "New Cluster": "0",
+        "New Order": "38"
+    },
+    "207": {
+        "Flight No.": "LH492",
+        "Timestamp": "1530277200",
+        "Altitude": "34000.0",
+        "Latitude": "54.8",
+        "Longitude": "-1.16",
+        "New Cluster": "0",
+        "New Order": "207"
+    },
+    "202": {
+        "Flight No.": "LH501",
+        "Timestamp": "1530277200",
+        "Altitude": "0.0",
+        "Latitude": "-24.6",
+        "Longitude": "-44.7",
+        "New Cluster": "0",
+        "New Order": "202"
+    },
+    "175": {
+        "Flight No.": "LH519",
+        "Timestamp": "1530277200",
+        "Altitude": "39000.0",
+        "Latitude": "51.7",
+        "Longitude": "-7.75",
+        "New Cluster": "0",
+        "New Order": "175"
+    },
+    "91": {
+        "Flight No.": "LH8164",
+        "Timestamp": "1530277200",
+        "Altitude": "33000.0",
+        "Latitude": "60.1",
+        "Longitude": "-42.7",
+        "New Cluster": "0",
+        "New Order": "91"
+    },
+    "173": {
+        "Flight No.": "LH8175",
+        "Timestamp": "1530277200",
+        "Altitude": "33000.0",
+        "Latitude": "55.1",
+        "Longitude": "-7.02",
+        "New Cluster": "0",
+        "New Order": "173"
+    },
+    "71": {
+        "Flight No.": "LH8189",
+        "Timestamp": "1530277200",
+        "Altitude": "29000.0",
+        "Latitude": "58.2",
+        "Longitude": "-18.6",
+        "New Cluster": "0",
+        "New Order": "71"
+    },
+    "87": {
+        "Flight No.": "LH8224",
+        "Timestamp": "1530277200",
+        "Altitude": "30100.0",
+        "Latitude": "52.6",
+        "Longitude": "-7.07",
+        "New Cluster": "0",
+        "New Order": "87"
+    },
+    "201": {
+        "Flight No.": "LH8250",
+        "Timestamp": "1530277200",
+        "Altitude": "33400.0",
+        "Latitude": "7.71",
+        "Longitude": "-32.9",
+        "New Cluster": "0",
+        "New Order": "201"
+    },
+    "121": {
+        "Flight No.": "UA119",
+        "Timestamp": "1530277200",
+        "Altitude": "31000.0",
+        "Latitude": "61.6",
+        "Longitude": "-34.4",
+        "New Cluster": "0",
+        "New Order": "121"
+    },
+    "195": {
+        "Flight No.": "UA121",
+        "Timestamp": "1530277200",
+        "Altitude": "35200.0",
+        "Latitude": "44.0",
+        "Longitude": "-25.1",
+        "New Cluster": "0",
+        "New Order": "195"
+    },
+    "55": {
+        "Flight No.": "UA123",
+        "Timestamp": "1530277200",
+        "Altitude": "38000.0",
+        "Latitude": "43.5",
+        "Longitude": "-65.2",
+        "New Cluster": "0",
+        "New Order": "55"
+    },
+    "101": {
+        "Flight No.": "UA127",
+        "Timestamp": "1530277200",
+        "Altitude": "36000.0",
+        "Latitude": "54.8",
+        "Longitude": "-12.8",
+        "New Cluster": "0",
+        "New Order": "101"
+    },
+    "178": {
+        "Flight No.": "UA135",
+        "Timestamp": "1530277200",
+        "Altitude": "34000.0",
+        "Latitude": "46.8",
+        "Longitude": "-36.9",
+        "New Cluster": "0",
+        "New Order": "178"
+    },
+    "176": {
+        "Flight No.": "UA141",
+        "Timestamp": "1530277200",
+        "Altitude": "34000.0",
+        "Latitude": "44.1",
+        "Longitude": "-31.5",
+        "New Cluster": "0",
+        "New Order": "176"
+    },
+    "30": {
+        "Flight No.": "UA145",
+        "Timestamp": "1530277200",
+        "Altitude": "32500.0",
+        "Latitude": "43.1",
+        "Longitude": "-21.1",
+        "New Cluster": "0",
+        "New Order": "30"
+    },
+    "74": {
+        "Flight No.": "UA147",
+        "Timestamp": "1530277200",
+        "Altitude": "37000.0",
+        "Latitude": "55.3",
+        "Longitude": "-19.3",
+        "New Cluster": "0",
+        "New Order": "74"
+    },
+    "154": {
+        "Flight No.": "UA15",
+        "Timestamp": "1530277200",
+        "Altitude": "32000.0",
+        "Latitude": "50.8",
+        "Longitude": "-39.3",
+        "New Cluster": "0",
+        "New Order": "154"
+    },
+    "174": {
+        "Flight No.": "UA153",
+        "Timestamp": "1530277200",
+        "Altitude": "18900.0",
+        "Latitude": "54.0",
+        "Longitude": "-6.78",
+        "New Cluster": "0",
+        "New Order": "174"
+    },
+    "131": {
+        "Flight No.": "UA160",
+        "Timestamp": "1530277200",
+        "Altitude": "32000.0",
+        "Latitude": "51.6",
+        "Longitude": "-39.6",
+        "New Cluster": "0",
+        "New Order": "131"
+    },
+    "64": {
+        "Flight No.": "UA162",
+        "Timestamp": "1530277200",
+        "Altitude": "38000.0",
+        "Latitude": "50.6",
+        "Longitude": "-55.0",
+        "New Cluster": "0",
+        "New Order": "64"
+    },
+    "141": {
+        "Flight No.": "UA169",
+        "Timestamp": "1530277200",
+        "Altitude": "32000.0",
+        "Latitude": "49.6",
+        "Longitude": "-4.16",
+        "New Cluster": "0",
+        "New Order": "141"
+    },
+    "76": {
+        "Flight No.": "UA17",
+        "Timestamp": "1530277200",
+        "Altitude": "32000.0",
+        "Latitude": "53.5",
+        "Longitude": "-20.3",
+        "New Cluster": "0",
+        "New Order": "76"
+    },
+    "156": {
+        "Flight No.": "UA18",
+        "Timestamp": "1530277200",
+        "Altitude": "36700.0",
+        "Latitude": "49.9",
+        "Longitude": "-38.4",
+        "New Cluster": "0",
+        "New Order": "156"
+    },
+    "170": {
+        "Flight No.": "UA195",
+        "Timestamp": "1530277200",
+        "Altitude": "38000.0",
+        "Latitude": "60.7",
+        "Longitude": "-14.7",
+        "New Cluster": "0",
+        "New Order": "170"
+    },
+    "3": {
+        "Flight No.": "UA21",
+        "Timestamp": "1530277200",
+        "Altitude": "36000.0",
+        "Latitude": "50.1",
+        "Longitude": "-36.8",
+        "New Cluster": "0",
+        "New Order": "3"
+    },
+    "61": {
+        "Flight No.": "UA22",
+        "Timestamp": "1530277200",
+        "Altitude": "38000.0",
+        "Latitude": "48.8",
+        "Longitude": "-58.4",
+        "New Cluster": "0",
+        "New Order": "61"
+    },
+    "40": {
+        "Flight No.": "UA24",
+        "Timestamp": "1530277200",
+        "Altitude": "35000.0",
+        "Latitude": "52.8",
+        "Longitude": "-25.2",
+        "New Cluster": "0",
+        "New Order": "40"
+    },
+    "124": {
+        "Flight No.": "UA26",
+        "Timestamp": "1530277200",
+        "Altitude": "40000.0",
+        "Latitude": "60.4",
+        "Longitude": "-27.6",
+        "New Cluster": "0",
+        "New Order": "124"
+    },
+    "140": {
+        "Flight No.": "UA31",
+        "Timestamp": "1530277200",
+        "Altitude": "32000.0",
+        "Latitude": "49.2",
+        "Longitude": "-3.84",
+        "New Cluster": "0",
+        "New Order": "140"
+    },
+    "106": {
+        "Flight No.": "UA41",
+        "Timestamp": "1530277200",
+        "Altitude": "32000.0",
+        "Latitude": "45.4",
+        "Longitude": "-37.1",
+        "New Cluster": "0",
+        "New Order": "106"
+    },
+    "108": {
+        "Flight No.": "UA43",
+        "Timestamp": "1530277200",
+        "Altitude": "34000.0",
+        "Latitude": "46.3",
+        "Longitude": "-23.8",
+        "New Cluster": "0",
+        "New Order": "108"
+    },
+    "9": {
+        "Flight No.": "UA45",
+        "Timestamp": "1530277200",
+        "Altitude": "40000.0",
+        "Latitude": "68.6",
+        "Longitude": "-64.6",
+        "New Cluster": "0",
+        "New Order": "9"
+    },
+    "143": {
+        "Flight No.": "UA47",
+        "Timestamp": "1530277200",
+        "Altitude": "35000.0",
+        "Latitude": "51.8",
+        "Longitude": "-2.66",
+        "New Cluster": "0",
+        "New Order": "143"
+    },
+    "183": {
+        "Flight No.": "UA50",
+        "Timestamp": "1530277200",
+        "Altitude": "33000.0",
+        "Latitude": "42.0",
+        "Longitude": "-6.67",
+        "New Cluster": "0",
+        "New Order": "183"
+    },
+    "44": {
+        "Flight No.": "UA53",
+        "Timestamp": "1530277200",
+        "Altitude": "38600.0",
+        "Latitude": "53.6",
+        "Longitude": "-26.1",
+        "New Cluster": "0",
+        "New Order": "44"
+    },
+    "63": {
+        "Flight No.": "UA56",
+        "Timestamp": "1530277200",
+        "Altitude": "36000.0",
+        "Latitude": "48.7",
+        "Longitude": "-55.9",
+        "New Cluster": "0",
+        "New Order": "63"
+    },
+    "104": {
+        "Flight No.": "UA65",
+        "Timestamp": "1530277200",
+        "Altitude": "37000.0",
+        "Latitude": "43.8",
+        "Longitude": "-37.6",
+        "New Cluster": "0",
+        "New Order": "104"
+    },
+    "166": {
+        "Flight No.": "UA71",
+        "Timestamp": "1530277200",
+        "Altitude": "32000.0",
+        "Latitude": "51.0",
+        "Longitude": "-44.5",
+        "New Cluster": "0",
+        "New Order": "166"
+    },
+    "62": {
+        "Flight No.": "UA865",
+        "Timestamp": "1530277200",
+        "Altitude": "38000.0",
+        "Latitude": "48.7",
+        "Longitude": "-56.0",
+        "New Cluster": "0",
+        "New Order": "62"
+    },
+    "152": {
+        "Flight No.": "UA900",
+        "Timestamp": "1530277200",
+        "Altitude": "31100.0",
+        "Latitude": "68.1",
+        "Longitude": "-40.4",
+        "New Cluster": "0",
+        "New Order": "152"
+    },
+    "168": {
+        "Flight No.": "UA906",
+        "Timestamp": "1530277200",
+        "Altitude": "36000.0",
+        "Latitude": "58.1",
+        "Longitude": "-15.0",
+        "New Cluster": "0",
+        "New Order": "168"
+    },
+    "100": {
+        "Flight No.": "UA908",
+        "Timestamp": "1530277200",
+        "Altitude": "32000.0",
+        "Latitude": "56.2",
+        "Longitude": "-11.3",
+        "New Cluster": "0",
+        "New Order": "100"
+    },
+    "190": {
+        "Flight No.": "UA914",
+        "Timestamp": "1530277200",
+        "Altitude": "34000.0",
+        "Latitude": "50.8",
+        "Longitude": "-24.8",
+        "New Cluster": "0",
+        "New Order": "190"
+    },
+    "138": {
+        "Flight No.": "UA919",
+        "Timestamp": "1530277200",
+        "Altitude": "0.0",
+        "Latitude": "51.5",
+        "Longitude": "-0.487",
+        "New Cluster": "0",
+        "New Order": "138"
+    },
+    "43": {
+        "Flight No.": "UA947",
+        "Timestamp": "1530277200",
+        "Altitude": "35000.0",
+        "Latitude": "53.8",
+        "Longitude": "-24.3",
+        "New Cluster": "0",
+        "New Order": "43"
+    },
+    "69": {
+        "Flight No.": "UA951",
+        "Timestamp": "1530277200",
+        "Altitude": "35000.0",
+        "Latitude": "52.4",
+        "Longitude": "-28.1",
+        "New Cluster": "0",
+        "New Order": "69"
+    },
+    "73": {
+        "Flight No.": "UA953",
+        "Timestamp": "1530277200",
+        "Altitude": "32000.0",
+        "Latitude": "59.8",
+        "Longitude": "-19.4",
+        "New Cluster": "0",
+        "New Order": "73"
+    },
+    "215": {
+        "Flight No.": "UA957",
+        "Timestamp": "1530277200",
+        "Altitude": "34000.0",
+        "Latitude": "43.0",
+        "Longitude": "-49.8",
+        "New Cluster": "0",
+        "New Order": "215"
+    },
+    "45": {
+        "Flight No.": "UA961",
+        "Timestamp": "1530277200",
+        "Altitude": "34000.0",
+        "Latitude": "52.3",
+        "Longitude": "-27.2",
+        "New Cluster": "0",
+        "New Order": "45"
+    },
+    "26": {
+        "Flight No.": "UA963",
+        "Timestamp": "1530277200",
+        "Altitude": "32000.0",
+        "Latitude": "50.7",
+        "Longitude": "-46.5",
+        "New Cluster": "0",
+        "New Order": "26"
+    },
+    "123": {
+        "Flight No.": "UA971",
+        "Timestamp": "1530277200",
+        "Altitude": "32000.0",
+        "Latitude": "60.9",
+        "Longitude": "-29.9",
+        "New Cluster": "0",
+        "New Order": "123"
+    },
+    "83": {
+        "Flight No.": "UA973",
+        "Timestamp": "1530277200",
+        "Altitude": "33000.0",
+        "Latitude": "61.0",
+        "Longitude": "-39.3",
+        "New Cluster": "0",
+        "New Order": "83"
+    },
+    "34": {
+        "Flight No.": "UA975",
+        "Timestamp": "1530277200",
+        "Altitude": "36000.0",
+        "Latitude": "50.5",
+        "Longitude": "-26.4",
+        "New Cluster": "0",
+        "New Order": "34"
+    },
+    "119": {
+        "Flight No.": "UA986",
+        "Timestamp": "1530277200",
+        "Altitude": "36000.0",
+        "Latitude": "60.0",
+        "Longitude": "-32.2",
+        "New Cluster": "0",
+        "New Order": "119"
+    },
+    "112": {
+        "Flight No.": "UA988",
+        "Timestamp": "1530277200",
+        "Altitude": "36100.0",
+        "Latitude": "52.7",
+        "Longitude": "-18.8",
+        "New Cluster": "0",
+        "New Order": "112"
+    }
+}
