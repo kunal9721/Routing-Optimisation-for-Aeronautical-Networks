@@ -14,3 +14,22 @@ Routing path having the maximum end-to-end data transmission rate for each airpl
 
 2. Multiple-objective optimisation:
 Routing path having the maximum end-to-end data transmission rate and minimum end-to-end latency for each airplane that can access any of a GS, either atHeathrow airport (Latitude,Longitude, Altitude) = (51.4700° N, 0.4543° W, 81.73 feet) or Newark Liberty International Airport (Latitude,Longitude, Altitude) =(40.6895° N, 74.1745° W, 8.72 feet).
+
+
+Methodology
+
+Data Preprocessing: The first step is to preprocess the data. This includes cleaning, normalizing, and formatting the data to ensure that it can be easily analyzed. Specifically, the data should include information about the location of aircrafts, ground stations and any other relevant information that is needed for the routing optimization.
+
+Distance and Transmission Function: Next, define the distance function and transmission function. The distance function is used to calculate the distance between two nodes, and the transmission function is used to calculate the transmission rate between two nodes. The transmission rate is calculated based on the distance between the nodes, the altitude of the aircraft and the type of antenna used at the ground station.
+
+Create Dictionary: Create a dictionary with every possible node. This will be used to store the information about each node, including its location, transmission rate and other relevant information.
+
+Divide Planes: Divide the aircrafts into two lists, one for aircrafts that are in flight and another for aircrafts that are on the ground. This will allow us to apply the routing algorithm to both lists of aircrafts.
+
+Routing Algorithm: Apply the routing algorithm such as Dijkstra or Bellman-Ford algorithm, to both lists of aircrafts and combine the routing path for a single optimization problem. The algorithm should consider the transmission rate, distance, and latency as the parameters to optimize the route.
+
+Multiple Optimization: For multiple optimization problems, use the latency and add 50ms latency for each node in the routing path we got in the single optimization. Also, consider the transmission rate, distance and other relevant parameters that affect the routing optimization.
+
+Ant Colony Optimization: Use the Ant Colony Optimization algorithm for multiple routing optimization and print the best route with the maximum transmission rate and minimum latency.
+
+Evaluation: Finally, evaluate the results by comparing the performance of the proposed methodology with existing methods and analyze the results. This can include metrics such as transmission rate, latency, and routing path length
